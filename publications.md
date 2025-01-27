@@ -18,7 +18,7 @@ title: Publications
 
 - Capillary flow of hybrid mode for programmed enhancement of flow rate on µTADs<br>Yixi Shi†, Haonan Li†, Hao Chen, **Xionghui Li**, Muyang Zhang, Qinghao He, Jie Zhou, Jiahua Zhong, Xinyi Chen, Lok Ting Chu, Weijin Guo*  <br> Journal of Chromatography A **(IF: 3.8)** (Under Review)<br>
 
-- Fast capillary flow on µPADs with hollow channels packaged by thermal contraction tube and its application in viscosity measurement of liquid samples<br>Xinyi Chen, Haonan Li, **Xionghui Li**, Muyang Zhang, Qinghao He, Jie Zhou, Jiahua Zhong, Hao Chen, Yixi Shi, Huilin Chen, Huiru Chen, Lok Ting Chu, Weijin Guo*<br> Analytical Chemistry **(IF: 3.8)** (Under Review)<br>
+- Fast capillary flow on µPADs with hollow channels packaged by thermal contraction tube and its application in viscosity measurement of liquid samples<br>Xinyi Chen, Haonan Li, **Xionghui Li**, Muyang Zhang, Qinghao He, Jie Zhou, Jiahua Zhong, Hao Chen, Yixi Shi, Huilin Chen, Huiru Chen, Lok Ting Chu, Weijin Guo*<br> Analytical Chemistry **(IF: 6.8)** (Under Review)<br>
 
 - An injectable hydrogel with step-by-step drug release for chemo-photothermal therapy of tumors<br>Ruixuan Chen†, Xuanying Liang†, Genquan Wu†, Xintong Lin, Hao Zhu, **Xionghui Li**, Benqing Zhou* <br> Acta Biomaterialia **(IF: 9.4)** (Under Review)<br>
 
@@ -36,7 +36,7 @@ Jie Zhou, Haonan Li, **Xionghui Li**, Xuanying Liang, Zitao Feng, Qinghao He, Mu
 
 ## Patents
 
-#- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
+/- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
 
 #To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the #**Internet of Everything**.
 
