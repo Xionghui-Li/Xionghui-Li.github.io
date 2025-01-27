@@ -12,13 +12,13 @@ owner:
   email: 21xhli4@stu.edu.cn
   cv: https://xionghui-li.github.io/file/CV-XionghuiLi.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+ #  twitter: xxxx
+  github: Xionghui-Li
+ #  linkedin: xxxxx
+  scholar: https://scholar.google.com/citations?user=t3zXkyUAAAAJ&hl=zh-CN
+ #  bilibili: xxxxx
+ #  researchgate: xxxx
+ #  zhihu: xxxx
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -46,8 +46,8 @@ links:
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
