@@ -19,8 +19,8 @@ owner:
  #  bilibili: xxxxx
  #  researchgate: xxxx
  #  zhihu: xxxx
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -84,4 +84,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2025/1/27 by Xionghui Li.
