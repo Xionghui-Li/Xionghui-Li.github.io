@@ -20,7 +20,9 @@ title: Publications
 
 - Fast capillary flow on µPADs with hollow channels packaged by thermal contraction tube and its application in viscosity measurement of liquid samples<br>Xinyi Chen, Haonan Li, **Xionghui Li**, Muyang Zhang, Qinghao He, Jie Zhou, Jiahua Zhong, Hao Chen, Yixi Shi, Huilin Chen, Huiru Chen, Lok Ting Chu, Weijin Guo*<br> Analytical Chemistry **(IF: 6.8)** (Under Review)<br>
 
-- An injectable hydrogel with step-by-step drug release for chemo-photothermal therapy of tumors<br>Ruixuan Chen†, Xuanying Liang†, Genquan Wu†, Xintong Lin, Hao Zhu, **Xionghui Li**, Benqing Zhou* <br> Acta Biomaterialia **(IF: 9.4)** (Under Review)<br>
+- An injectable hydrogel with step-by-step drug release for chemo-photothermal therapy of tumors<br>Ruixuan Chen†, Xuanying Liang†, Genquan Wu†, Xintong Lin, Hao Zhu, **Xionghui Li**, Benqing Zhou* <br> Colloids and Surfaces B: Biointerfaces **(IF: 5.4)** (Under Review)<br>
+
+- Fast capillary flow of whole blood treated with magnetic field<br>Zitong Ye, Xionghui Li, Haonan Li, Muyang Zhang, Qinghao He, Jie Zhou, Hao Chen, Jiahua Zhong, Huiru Zhang, Lok Ting Chu and Weijin Guo* <br> IEEE-NEMS 2025 (Submitted) <br>
 
 - [Automatic Characterization of Capillary Flow Profile of Liquid Samples on μTADs Based on Capacitance Measurement](https://doi.org/10.1016/j.chroma.2024.465328)<br>
 Jie Zhou, Haonan Li, **Xionghui Li**, Xuanying Liang, Zitao Feng, Qinghao He, Muyang Zhang, Xinyi Chen, Huilin Chen, Huiru Zhang, Weijin Guo*<br>Journal of Chromatography A **(IF: 3.8)** 2024.<br>
